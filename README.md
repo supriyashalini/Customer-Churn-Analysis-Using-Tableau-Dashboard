@@ -1,6 +1,7 @@
 # Customer-Churn-Analysis-Using-Tableau-Dashboard
 Customer Churn Analysis using a Tableau dashboard involves visualizing and analyzing customer data to understand patterns and factors contributing to customer attrition. The dashboard typically includes key metrics such as churn rate, customer demographics, purchase history, and behavioral trends. It may feature visual elements like bar charts, line graphs, and heatmaps to track churn over time, compare churn rates across customer segments, and identify correlations with variables such as customer satisfaction, support interactions, and subscription duration. The goal is to provide actionable insights for improving retention strategies and reducing churn.
-Inferences:
+
+## Inferences:
 - Total Customers - 10,000
 - Total Customers Churned - 2,037
 - Customer Churn Rate - 20.37%
